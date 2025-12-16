@@ -1,2 +1,2 @@
 # Olist_Ecommerce
-End-to-end data processing pipeline on Google Cloud Dataproc using PySpark — includes data ingestion, cleaning, integration, transformation, optimization, and serving for analytical insights.
+End-to-end PySpark data processing pipeline on Google Cloud Dataproc using the Olist Brazilian E-Commerce dataset — includes ingestion, cleaning, integration, optimization, and serving for analytical insights.
