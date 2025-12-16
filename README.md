@@ -112,3 +112,22 @@ It includes detailed order-level information from **2016 to 2018**, spanning cus
 
 ---
 
+📈 Key Insights and Learnings
+
+-- Built a complete, production-grade data pipeline using Google Cloud Dataproc
+
+-- Gained hands-on experience with PySpark transformations and joins
+
+-- Applied performance tuning and optimization techniques in Spark
+
+-- Delivered reusable, scalable data outputs for analytics and ML
+
+---
+
+🧾 References
+
+- Olist Brazilian E-Commerce Dataset on Kaggle
+
+- Google Cloud Dataproc Documentation
+
+- Apache Spark Official Documentation
