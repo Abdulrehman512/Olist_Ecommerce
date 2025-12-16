@@ -4,7 +4,6 @@ End-to-end PySpark data processing pipeline on Google Cloud Dataproc using the O
 
 
 
-cat <<'EOF' > README.md
 # 🚀 Data Processing and Optimization on Google Cloud Dataproc using PySpark  
 ### *Powered by the Olist Brazilian E-Commerce Dataset (Kaggle)*
 
